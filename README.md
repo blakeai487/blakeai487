@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Blake (@blakeai487) 👋
 
-<!--
-**blakeai487/blakeai487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer based in Dublin. I build fast, accessible web apps and obsess over UI details and smooth UX.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🔨 Building client work and side projects with Next.js, React, and Tailwind
+- 📚 Exploring React Server Components and micro-animations
+- ⚡ Speeding up local workflows with Vite and modern tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily stack
+- **Core:** TypeScript, React, Next.js, HTML5/CSS3
+- **Styling:** TailwindCSS, CSS Modules
+- **Tooling:** Vite, Git, pnpm, Vitest
+
+#### Get in touch
+- 🌐 [Portfolio](https://blakedev.example)
+- 💬 Twitter: [@blakeai487](https://twitter.com)
+- ✉️ blake.dev487@example.com
